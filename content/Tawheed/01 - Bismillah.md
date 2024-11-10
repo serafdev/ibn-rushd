@@ -6,7 +6,7 @@ date: 2024-11-09T06:31:00-05:00
 
 Pourquoi disons nous la بسملا (بسم الله) Basmalla (Bismillah)? Nous sommes proche de 2 Millars de Musulmans, mais si nous demandons à quiconques pourquoi nous disons "Bismillah", certains ne saurons pas répondre.
 
-Quand nous disons بيم الله الرحمن الرحيم (Bismillah Al Rahman Al Rahim), nous exerçons notre Tawheed complet à Allah ﷻ sur l'action que vous entreprenez. Nous disons en fait Bismillah, Allah me permet d'entreprendre cette action. Et si Allah ne me permet pas, je ne le ferrais pas. C'est pour cela que nous ne disons pas Bismillah quand nous allons commettre un pêcher, qu'Allah nous protège de cela.
+Quand nous disons بسم الله الرحمن الرحيم (Bismillah Al Rahman Al Rahim), nous exerçons notre Tawheed complet à Allah ﷻ sur l'action que vous entreprenez. Nous disons en fait Bismillah, Allah me permet d'entreprendre cette action. Et si Allah ne me permet pas, je ne le ferrais pas. C'est pour cela que nous ne disons pas Bismillah quand nous allons commettre un pêcher, qu'Allah nous protège de cela.
 
 Si nous disons بسم الله par exemple si nous buvons de l'alcool, nous reçevons 2 pêcher, un pour avoir dis le mensonge "بسم الله, Allah permitted be to do this" et un pour avoir bu l'alcool. Croyez le ou non, c'est une mode dans certains pays de dire Bismillah avant de boire.
 
@@ -28,3 +28,19 @@ Surah Nahl (16) {Beginning of} Verse 53
 ```
 
 Every provision is from Allah only, this is the second part of Tawheed Rububiyyah
+
+#  Tawheed al-Asmaa was-Sifaat
+
+_TODO: add notes when I can formulate better_
+
+# Pourquoi?
+Pour commençons nous avec Bismillah? Ceci est une question d'adoration. Et dans la toute pratique de vénération, amener des preuves est sur la charge de celui qui la pratique.
+
+# Conclusion
+Al Hamdulilah, maintenant nous savons le pourquoi du Bismillah, auparavant nous la disions car le Hadith nous a demandé de le dire, mais maintenant nous comprenons ce qu'elle veut vraiment dire. Personellement seulement cette explication a complètement changé ma perception sur le monde qui m'entoure Al Hamdulilah.
+
+# Notes Linguistiques
+"Ba": To seek help and dependence on Allah
+
+Gramatically, when you say "Bismillah" before eating, it automatically implies that you're saying "Bismillah I eat", sans avoir besoin de mentionner verballement l'acte. La langue arabe élimine le besoin de mentionner l'acte auquel nous disons le Bismillah. C'est l'une des beautée de la langue arabe
+
