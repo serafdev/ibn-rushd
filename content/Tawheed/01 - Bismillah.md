@@ -22,9 +22,9 @@ C'est comme dire لا حول ولا قوة الا باالله (La Hawla Wala Qu
 Sans les pouvoirs d'Allah, nous ne pouvons faire aucun acte, c'est pour cela qu'Allah dit:
 
 ```
-وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ ٱللَّهِ 
-Whatever blessings you have are from Allah.
-Surah Nahl (16) {Beginning of} Verse 53
+[...] وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ ٱللَّهِ 
+Et tout ce que vous avez comme bienfait provient d'Allah. [...]
+Surah Nahl (16) Début du verset 53
 ```
 
 Every provision is from Allah only, this is the second part of Tawheed Rububiyyah
@@ -35,6 +35,18 @@ _TODO: add notes when I can formulate better_
 
 # Pourquoi?
 Pour commençons nous avec Bismillah? Ceci est une question d'adoration. Et dans la toute pratique de vénération, amener des preuves est sur la charge de celui qui la pratique.
+
+## Preuve 1:
+Le Coran commence par Bismillah, donc on peut commencer nos travaux avec Bismillah pour les bénir. Dans le Coran il y a 114 Bismillah, devant chaque Surah à part la Surah Tawbah, et dans la Ayah de la lettre du Prophète Solomon (Surah Naml, Ayah 30):
+
+```
+إِنَّهُۥ مِن سُلَيْمَـٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+
+Elle vient de Sulayman (Salomon); et c'est: « Au nom d'Allah, le Tout Miséricordieux, le Très  Miséricordieux
+
+Surah Naml (27) Verset 30
+```
+
 
 # Conclusion
 Al Hamdulilah, maintenant nous savons le pourquoi du Bismillah, auparavant nous la disions car le Hadith nous a demandé de le dire, mais maintenant nous comprenons ce qu'elle veut vraiment dire. Personellement seulement cette explication a complètement changé ma perception sur le monde qui m'entoure Al Hamdulilah.
